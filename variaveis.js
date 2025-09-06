@@ -5,3 +5,4 @@ console.log(num1+num2);
 num1 = 3;
 
 console.log(num1+num2);
+//akd,vzh,dzc 
